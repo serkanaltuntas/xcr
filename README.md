@@ -36,12 +36,12 @@ The binary will be available at `target/release/xcr`
 
 Basic project renaming:
 ```bash
-xcp /path/to/your/project NewProjectName
+xcr /path/to/your/project NewProjectName
 ```
 
 With bundle identifier update:
 ```bash
-xcp /path/to/your/project NewProjectName --bundle-id com.company.newname
+xcr /path/to/your/project NewProjectName --bundle-id com.company.newname
 ```
 
 For more detailed instructions, check out the [Quick Start Guide](QUICK_START.md).
