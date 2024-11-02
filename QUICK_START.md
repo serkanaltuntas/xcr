@@ -9,7 +9,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 2. **Get XCR**:
 ```bash
-git clone https://github.com/yourusername/xcr.git
+git clone https://github.com/serkanaltuntas/xcr.git
 cd xcr
 cargo build --release
 ```
